@@ -1,0 +1,13 @@
+app/Config/*
+app/tmp/cache/*
+app/tmp/logs/*
+app/tmp/sessions/*
+app/tmp/tests/*
+# OS generated files #
+######################
+.profile
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+lib/Cake/Console/Templates/skel/tmp/*
