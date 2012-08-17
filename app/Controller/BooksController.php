@@ -16,7 +16,7 @@ class BooksController extends AppController {
 
 	public function pruebaapi(){
       $HttpSocket = new HttpSocket();
-      $results = $HttpSocket->get('https://www.googleapis.com/books/v1/volumes', array('q' => 'hobbit', 'key' => 'AIzaSyAI70Q8DL6YJPM3vfPuEE5PiEBExB0T1bQ'));
+      $results = $HttpSocket->get('https://www.googleapis.com/books/v1/volumes', array('q' => 'hobbit', 'key' => 'AIzaSyA8aGL3zjUNQFdG3jD1p1uUDf3-y9Tz08s'));
 
       pr($results);
 	}
