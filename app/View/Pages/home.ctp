@@ -1,5 +1,4 @@
 <div id="container">
-
 	<form>
 		<fieldset>
 		  <div class="formleft">
@@ -12,5 +11,4 @@
 		  <div class="clearfix"></div>
 		</fieldset>
 	</form>
-
 </div>
